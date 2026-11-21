@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Settings>
+    <Setting Name="EnableOreRadar" Type="bool" Value="true" ShowInMenus="true" />
+  </Settings>
+  <Profiles>
+    <Profile Name="default">
+      <SettingValue Name="EnableOreRadar" Value="true" />
+    </Profile>
+  </Profiles>
+</Configuration>
