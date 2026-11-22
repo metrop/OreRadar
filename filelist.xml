@@ -2,5 +2,4 @@
 <contentpackage name="OreRadar" modversion="1.0.2" corepackage="False" steamworkshopid="3843723907" gameversion="1.13.5.0">
   <Text file="%ModDir%/Texts/English.xml" />
   <Text file="%ModDir%/Texts/Russian.xml" />
-  <UIStyle file="%ModDir%/Style.xml" />
 </contentpackage>
